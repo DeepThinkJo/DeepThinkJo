@@ -1,16 +1,23 @@
-## Hi there 👋
+# DeepThinkJo
 
-<!--
-**DeepThinkJo/DeepThinkJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Think Deeply — understand problems precisely and design intentional solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+AI Engineering  
+Machine Learning Fundamentals  
+Mathematics for Intelligent Systems  
+
+---
+
+## Work
+DeepThinkJo Notes
+Notion → GitHub Sync System
+AI Engineering Roadmap
+
+---
+
+## Philosophy
+Think Deeply.
+Define the goal. Understand the problem. Design the plan. Build with intention.
