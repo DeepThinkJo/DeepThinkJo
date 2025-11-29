@@ -11,10 +11,18 @@ Mathematics for Intelligent Systems
 
 ---
 
+## Education
+Department of Data Science, Sejong University, Korea  
+2023.03 – 2024.12  
+
+Department of Software, Sungkyunkwan University, Korea  
+2025.03 – Present (on military leave)
+
+---
+
 ## Work
 DeepThinkJo Notes  
-Notion → GitHub Sync System    
-AI Engineering Roadmap  
+Notion → GitHub Sync System  
 
 ---
 
