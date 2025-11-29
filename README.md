@@ -1,6 +1,6 @@
 # DeepThinkJo
 
-Think Deeply — I understand problems precisely and design intentional solutions.
+Think Deeply — understand problems precisely and design intentional solutions.
 
 ---
 
