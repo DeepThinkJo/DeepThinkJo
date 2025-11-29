@@ -1,6 +1,6 @@
 # DeepThinkJo
 
-Think Deeply — understand problems precisely and design intentional solutions.
+Think Deeply — I understand problems precisely and design intentional solutions.
 
 ---
 
@@ -12,12 +12,12 @@ Mathematics for Intelligent Systems
 ---
 
 ## Work
-DeepThinkJo Notes
-Notion → GitHub Sync System
-AI Engineering Roadmap
+DeepThinkJo Notes  
+Notion → GitHub Sync System    
+AI Engineering Roadmap  
 
 ---
 
 ## Philosophy
-Think Deeply.
+Think Deeply.  
 Define the goal. Understand the problem. Design the plan. Build with intention.
